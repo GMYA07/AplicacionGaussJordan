@@ -1,4 +1,4 @@
-# Descripción del Proyecto: Resolución de Sistemas de Ecuaciones por el Método de Gauss-Jordan
+# Resolución de Sistemas de Ecuaciones por el Método de Gauss-Jordan
 Este proyecto tiene como objetivo implementar el método de Gauss-Jordan para resolver sistemas de ecuaciones lineales. El método de Gauss-Jordan es una técnica de eliminación que transforma una matriz aumentada en su forma escalonada reducida, permitiendo encontrar soluciones de sistemas de ecuaciones de manera eficiente.
 
 # Funcionalidades
